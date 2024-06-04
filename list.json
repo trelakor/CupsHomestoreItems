@@ -1,0 +1,112 @@
+{
+    "KawaiiStore": {
+        "TableList": [
+            {
+                "RigType": 2,
+                "Items": [
+                    16930802190
+                ]
+            },
+            {
+                "RigType": 2,
+                "Items": [
+                    16930797457
+                ]
+            },
+            {
+                "RigType": 2,
+                "Items": [
+                    16930791614
+                ]
+            },
+            {
+                "RigType": 2,
+                "Items": [
+                    16930781693
+                ]
+            },
+            {
+                "RigType": 2,
+                "Items": [
+                    17440488113
+                ]
+            },
+            {
+                "RigType": 2,
+                "Items": [
+                    17440534129
+                ]
+            },
+            {
+                "RigType": 2,
+                "Items": [
+                    17440562946
+                ]
+            }
+        ],
+        "IndividualList": [
+            {
+                "Name": "Matching Bear Onesies Set",
+                "Pairing": 1,
+                "RigType": 1,
+                "Items": [
+                    17110632147,
+                    17117558020,
+                    17117583302
+                ]
+            },
+            {
+                "Name": "Matching Polar Bear Onesies Set",
+                "Pairing": 1,
+                "RigType": 1,
+                "Items": [
+                    17110635613,
+                    17117542746,
+                    17117574362
+                ]
+            },
+            {
+                "Name": "Kawaii Pancake Goat Set",
+                "RigType": 1,
+                "Items": [
+                    17332724480,
+                    17332773296,
+                    17332781220
+                ]
+            }
+        ]
+    },
+    "SeasonalStore": {
+        "TableList": [
+            {
+                "Name": "Christmas Winter Fox Set",
+                "RigType": 3,
+                "Items": [
+                    15542602305,
+                    15549970102
+                ]
+            },
+            {
+                "Name": "Christmas Dalmatian Puppy Set",
+                "RigType": 3,
+                "Items": [
+                    15680452613,
+                    15669220196,
+                    15676207834,
+                    15676217966
+                ]
+            },
+            {
+                "Name": "Puppy Corn Set",
+                "RigType": 3,
+                "Items": [
+                    15144372335,
+                    15144356656,
+                    15155769619,
+                    15155774480
+                ]
+            }
+        ],
+        "IndividualList": []
+    }
+}
